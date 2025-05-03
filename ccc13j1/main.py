@@ -2,8 +2,6 @@
 https://dmoj.ca/problem/dmopc14c5p1
 """
 
-from math import pi
-
 
 def oldest_child_age():
     """
